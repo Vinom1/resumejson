@@ -1,0 +1,47 @@
+{
+	"basics": {
+		"name": "Ravi Prakash Meena",
+		"label": "Student",
+		"email": "2020kucp1137@iiitkota.ac.in",
+		"phone": "7357142308",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.  I have enthusiasm in sports and competitive coding",
+		"location": {
+			"address": "L-79(B) railway colony phulera",
+			"postalCode": "303338",
+			"city": "Jaipur",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "Venom",
+				"url": "https://www.github.com/Vinom1"
+			},
+			{
+				"network": "linkedin",
+				"username": "Ravi Prakash",
+				"url": "https://www.linkedin.com/in/ravi-prakash-859b67201/"
+			}
+
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Footbal", "Kabaddi"]
+	}],
+	"references": []
+}
